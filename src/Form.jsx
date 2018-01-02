@@ -1,14 +1,7 @@
 import React from "react";
 
 export class Form extends React.Component {
-  constructor(props){
-    super(props);
-    this.state = {
-
-    }
-    
-  }
-
+ 
   render() {
 
     let todoTextTest = "create-todo-text";
